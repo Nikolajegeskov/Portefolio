@@ -25,6 +25,7 @@ a{
 .nav1 a {
     text-decoration: none;
     color: white;
+  font-size: 20px;
 }
 }
 .navbar ul {
@@ -57,10 +58,7 @@ a{
     transition: 1s;
     background-color: #121416;
 }
-.nav a{
-  color: white;
 
-}
 nav a:hover {
   text-decoration: none;
   color: white;
