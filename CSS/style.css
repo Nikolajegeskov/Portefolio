@@ -22,6 +22,9 @@ a{
   font-family: Kalam;
 }
 /***navbar****/
+.nav1{
+  margin-left: 5%;
+}
 .nav1 a {
     text-decoration: none;
     color: white;
@@ -77,11 +80,15 @@ nav a:hover {
     font-family: Merriweather;
     color: white;
 }
-
+#logo img{
+  height: 55px;
+  width: auto;
+}
 #logo {
 
+
     overflow: visible;
-    margin-right: 50%;
+    margin-right: 20%;
 }
 
 /**** back to top buttton***/
