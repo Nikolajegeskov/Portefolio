@@ -1,0 +1,540 @@
+body{margin: 0;
+}
+/**section about me**/
+section{
+  height: 100%;
+  width: 100%;
+}
+h1{
+  font-family: Kalam;
+  f
+}
+h2{
+  font-family: Kalam;
+}
+h3{
+  font-family: Kalam;
+}
+p{
+  font-family: Kalam;
+}
+a{
+  font-family: Kalam;
+}
+/***navbar****/
+.nav1 a {
+    text-decoration: none;
+    color: white;
+}
+}
+.navbar ul {
+    list-style-type: none;
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    overflow: hidden;
+
+}
+
+#logo img{
+    height: 100px;
+
+}
+
+#navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    z-index: 99;
+    position: fixed;
+    width: 100%;
+    align-items: center;
+    overflow: visible;
+    height: 60px;
+
+    transition: 1s;
+    background-color: #121416;
+}
+.nav a{
+  color: white;
+
+}
+nav a:hover {
+  text-decoration: none;
+  color: white;
+}
+.nav hover{
+  text-decoration:
+
+}
+.nav1 {
+    padding: 0 50px;
+
+
+    font-size: 25px;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: Merriweather;
+    color: white;
+}
+
+#logo {
+
+    overflow: visible;
+    margin-right: 50%;
+}
+
+/**** back to top buttton***/
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 25px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 90; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: red; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px;/* Some padding */
+  border-radius: 40px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+.imgar {
+  height: 40px;
+  width: auto;
+  margin-bottom: 10%;
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+/*******forside***/
+
+#forside{
+
+  height: 682px;
+background-color: black;
+}
+.socialforside{
+  list-style: none;
+background-color: white;
+  border-radius: 50px;
+  margin-right: 40%;
+  padding-right: 10%;
+  background-color:#040507;
+
+}
+
+.socialforside li{
+  margin-right: 20%;
+}
+
+
+.socialfor{
+background-color: black;
+}
+
+.forsidekasse{
+  display: flex;
+  flex-direction: row-reverse;
+background-color:#040507;
+
+
+  height: 850px;
+
+
+}
+.forsidekasse img {
+  height: 50%;
+  width: auto;
+  margin-top: 22%;
+
+}
+.billedekasse img{
+  height:500px;
+  width: auto;
+  margin-right: 5%;
+}
+.billedekasse{
+  margin-right: 5%;
+
+}
+.vertical-center{
+  margin-top:20% ;
+
+  color: white;
+  width: 40%;
+  height: 50%;
+  font-size: 30px;
+  background-color:#040507;
+}
+
+/******works***/
+#works{
+  height: 680px;
+
+background-color:#121416 ;
+}
+.overskrift{
+  width: 50%;
+  margin-left: 45%;
+
+
+}
+.h2over{
+  padding-top: 2%;
+  color: white;
+  font-size: 60px;
+}
+.buttons a:hover{
+  text-decoration: none;
+  color: white;
+}
+.buttons{
+  margin-bottom: 10%;
+  margin-left: 60%;
+  display: flex;
+  flex-direction: row;
+  width: 75%;
+
+
+
+}
+.tekstwork p{
+  font-size: 16px;
+  color: black;
+}
+.tekstwork h3{
+  font-size: 30px;
+  color: black;
+}
+.tekstwork{
+  position:absolute;
+  z-index: 10;
+  font-size: 22px;
+  width: 50%;
+  text-align: center;
+
+}
+.but1 button{
+  width: 250px;
+  height:92px;
+  margin-right: 30%;
+}
+.but1 a{
+  color: white;
+  font-size: 30px;
+}
+
+.but2 button{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.but1{
+  margin-left: 5%;
+
+}
+
+.github p{
+  margin-top: 7%;
+  margin-left: 5%;
+  font-size: 25px;
+}
+.github a{
+  margin-top: 5%;
+  margin-left: 6%;
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+}
+.visit{
+  display: flex;
+  flex-direction: row
+
+}
+.vis{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.github{
+  display: flex;
+  flex-direction: row;
+
+}
+.github img{
+  height: 50px;
+  width: 50px;
+  margin-right:
+
+}
+.buttons a {
+
+}
+
+.tekstwork p {
+  color: black;
+
+}
+.btn-success{
+  margin-right: 10%;
+}
+.carousel-caption{
+
+}
+.caro{
+  height: 850px;
+}
+.carousel-control-next-icon{
+  color: black;
+}
+.snedkeren1 img{
+  height: 75%;
+  width: 70%;
+  margin-top: 10%;
+  margin-left: 25%;
+
+
+}
+.snedkeren2 img{
+  height: 75%;
+  width: 70%;
+  margin-top: 10%;
+  margin-left: %;
+
+}
+.overwork{
+  display: flex;
+  flex-direction: row;
+
+}
+.workslist{
+  display: flex;
+  flex-direction: column;
+}
+.workslist2{
+
+}
+/****aboutme*****/
+#aboutme{
+margin-top:10px;
+height: 618px;
+  border-bottom: solid 5px;
+  border-color: black;
+}
+.omtext {
+  font-size: 10px;
+}
+.ommig{
+  position: relative;
+  z-index: 3;
+display: flex;
+flex-direction: row;
+}
+.tekstboxom h2 {
+  font-size: 50px;
+
+}
+.tekstboxom p {
+  font-size: 20px;
+
+}
+.tekstboxom{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 70%;
+  margin-left: 5%;
+
+  margin-top: 10%;
+  font-size: 20px;
+  position: absolute;
+  z-index: 3;
+  width: 60%;
+
+}
+
+.ommig img{
+  height: 550px;
+  width: auto;
+
+
+
+
+}
+
+.omimg{
+position: relative;
+z-index: 1;
+margin-left: 36%;
+margin-top: 5%;
+
+
+
+}
+/**** kontakt siden*****/
+#kontakt{
+  background-color: black;
+
+height: 600px;
+border-bottom: solid 5px;
+
+
+
+}
+#kontakt h2 {
+  font-size: 50px;
+  color: white;
+  margin-left: 45%;
+  padding-top: 5%;
+
+}
+.kontaktinfo{
+
+  display: flex;
+  flex-direction: row;
+}
+
+.kontaktliste ul {
+  list-style: none;
+  margin-left: 45%;
+  width: 100%;
+  height: 20%;
+  margin-top: -20%;
+
+
+}
+.kontaktoplysninger a:hover {
+  text-decoration: none;
+  color: black;
+}
+.kontaktoplysninger1 a:hover {
+  text-decoration: none;
+  color: black;
+}
+.kontaktoplysninger a{
+  font-size: 25px;
+  color: black;
+
+}
+.kontaktoplysninger{
+  display: flex;
+  flex-direction: row;
+justify-content: center;
+height:70px;
+
+
+}
+.kontaktoplysninger1{
+  display: flex;
+  flex-direction: row;
+justify-content: center;
+margin-top: 1%;
+
+
+
+}
+.kontaktoplysninger a{
+
+  margin-top: 5%;
+  margin-left: 3%;
+
+}
+.kontaktoplysninger img{
+margin-top: 3%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  margin-left: -2%;
+
+}
+.kontaktoplysninger1 img{
+
+  padding-bottom: 1%;
+  padding-top: 1%;
+  margin-left: 3%;
+
+}
+
+.kontaktoplysninger1 a{
+  margin-left: 10%;
+  text-decoration: none;
+  color: black;
+}
+.oplysninger{
+  display: flex;
+  flex-direction: row;
+}
+.kontaktliste img{
+  height: 50px;
+  width: 50px;
+  margin-bottom: -10px;
+}
+.kontaktliste li{
+  display: flex;
+  flex-direction: column;
+  margin-top: 2%;
+  width: 50%;
+  height: 30%;
+  text-align: center;
+  font-size: 40px;
+  background-color: white;
+border-radius:20px;}
+
+  .kontaktliste{
+    width: 70%;
+    height: 65%;
+    margin-top: 15%;
+  }
+
+  .billederkontakt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 3%;
+  }
+  .socialpng img{
+    height: 60px;
+    width:auto;
+    margin-left: 4%;
+
+
+  }
+  .socialpng a{
+    margin-left: 10%;
+  }
+.socialfor img{
+  height: 50px;
+  width: auto;
+}
+    .socialfor{
+
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+
+
+
+
+
+  }
+  .socialpng{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+  }
+
+
+
+  .kontaktimg{
+margin-top: %;
+  }
